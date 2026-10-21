@@ -1,30 +1,21 @@
-# Hi 👋, I'm Herbert Souza
+# Olá 👋, me chamo Caio
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+🚀 **Quality Assurance | JavaScript & Python**  
 🇧🇷 Brazil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+Eu desenvolvo specs de testes automatizados tanto em ambiente **web** quanto **mobile**.  
+Meu foco é a adoção de uma abordagem de **entrega contínua** e **integração contínua** por meio de **pipelines CI/CD**.
 
 ---
 
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/ccaiolsa">
+    <img src="https://img.shields.io/badge/GitHub-CCAIOLSA-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
-  </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  <a href="www.linkedin.com/in/ccaiolsa-qa">
+    <img src="https://img.shields.io/badge/LinkedIn-CAIOARAÚJO-E4405F?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
 ---
