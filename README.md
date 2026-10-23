@@ -1,4 +1,4 @@
-# Olá 👋, me chamo Caio
+# Hi 👋, I'm Caio Araújo
 
 🚀 **Quality Assurance | JavaScript & Python**  
 🇧🇷 Brazil
