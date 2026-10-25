@@ -54,10 +54,12 @@ Meu foco é a adoção de uma abordagem de **entrega contínua** e **integraçã
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ccaiolsa&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccaiolsa&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=CCAIOLSA&show_icons=true&theme=tokyonight&hide_border=true)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CCAIOLSA&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
