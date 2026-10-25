@@ -12,13 +12,12 @@ Meu foco é a adoção de uma abordagem de **entrega contínua** e **integraçã
 
 <p align="left">
   <a href="https://github.com/ccaiolsa">
-    <img src="https://img.shields.io/badge/GitHub-CCAIOLSA-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-ccaiolsa-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/ccaiolsa-qa">
-    <img src="https://img.shields.io/badge/LinkedIn-Caio Araújo-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ccaiolsa-qa">
+    <img src="https://img.shields.io/badge/LinkedIn-Caio%20Ara%C3%BAjo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-
----
 
 ## 🧠 What I do
 
