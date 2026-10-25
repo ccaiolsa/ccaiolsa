@@ -41,8 +41,8 @@ Meu foco é a adoção de uma abordagem de **entrega contínua** e **integraçã
 ### Automated tests
 
 ![Cypress](https://img.shields.io/badge/Cypress-green?style=for-the-badge&logo=cypress)
-![WebdriverIO](https://img.shields.io/badge/WDIO-#c9491e)
-![Jest](https://img.shields.io/badge/Jest-#2cc91e?style=for-the-badge&logo=webdriverio)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 
 
