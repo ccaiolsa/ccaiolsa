@@ -55,7 +55,7 @@ Meu foco é a adoção de uma abordagem de **entrega contínua** e **integraçã
 
 <div align="center">
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight&hide_border=true)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=CCAIOLSA&show_icons=true&theme=tokyonight&hide_border=true)
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CCAIOLSA&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
